@@ -1,0 +1,2 @@
+# 10c
+study git
