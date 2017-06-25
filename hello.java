@@ -6,3 +6,5 @@ public class Hell{
 
   class Fool{
   }
+  class Lshou{
+  }
