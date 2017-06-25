@@ -3,3 +3,6 @@ public class Hell{
     system.out.println("Hello java")'
   }
 }
+
+  class Fool{
+  }
